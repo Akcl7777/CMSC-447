@@ -1,3 +1,6 @@
 # CMSC-447
 
-Hello there again and again
+To run ensure Flask and Next.js are installed
+
+to run backend run python app.py
+to run frontend run npm run dev
