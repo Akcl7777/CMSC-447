@@ -1,0 +1,46 @@
+.frame {
+  align-items: center;
+  background-color: var(--dark-mode);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 49px 23px;
+  height: 798.33px;
+  justify-content: flex-end;
+  min-width: 1517.01px;
+  padding: 369px 65px 310px 1004px;
+  position: relative;
+  width: 100%;
+}
+
+.frame .design-component-instance-node {
+  margin-top: -125.49px !important;
+  position: relative !important;
+}
+
+.frame .add-instance {
+  transform: rotate(0.05deg) !important;
+}
+
+.frame .property-1-default {
+  height: 139px !important;
+  transform: rotate(0.05deg) !important;
+}
+
+.frame .design-component-instance-node-2 {
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040 !important;
+  margin-bottom: -124.18px !important;
+  position: relative !important;
+}
+
+.frame .edit-instance {
+  height: 138px !important;
+  top: 15px !important;
+  transform: rotate(0.05deg) !important;
+  width: 138px !important;
+}
+
+.frame .remove-instance {
+  height: 139px !important;
+  transform: rotate(0.05deg) !important;
+  width: 139px !important;
+}

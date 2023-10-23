@@ -1,0 +1,27 @@
+.property-default {
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+  height: 173px;
+  width: 172px;
+}
+
+.property-default .calendar-wrapper {
+  background-color: #2b354a;
+  border: 5px solid;
+  border-color: #020b14;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 178px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 177px;
+}
+
+.property-default .calendar {
+  height: 138px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 138px;
+}

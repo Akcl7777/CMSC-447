@@ -1,0 +1,30 @@
+.edit {
+  height: 173px;
+  width: 172px;
+}
+
+.edit .edit-wrapper {
+  background-color: #2b354a;
+  border: 5px solid;
+  border-color: #020b14;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+  height: 178px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 177px;
+}
+
+.edit .img {
+  height: 137px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 137px;
+}
+
+.edit:hover .edit-wrapper {
+  background-color: #384663;
+}

@@ -1,0 +1,197 @@
+.frame {
+  background-color: #15293e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div-2 {
+  background-color: #15293e;
+  height: 700px;
+  overflow: hidden;
+  position: relative;
+  width: 936px;
+}
+
+.frame .overlap {
+  background-color: #0f1d2e;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 936px;
+}
+
+.frame .x-button {
+  height: 30px;
+  left: 870px;
+  position: relative;
+  top: 42px;
+  width: 30px;
+}
+
+.frame .img {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.frame .overlap-group {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 610px;
+  width: 936px;
+}
+
+.frame .rectangle {
+  background-color: #0f1d2e;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 936px;
+}
+
+.frame .cancel-button-instance {
+  height: 43px !important;
+  left: 598px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 134px !important;
+}
+
+.frame .design-component-instance-node {
+  font-size: 24px !important;
+  left: 20px !important;
+  top: 5px !important;
+  width: 92px !important;
+}
+
+.frame .accept-button-instance {
+  height: 43px !important;
+  left: 777px !important;
+  mix-blend-mode: luminosity !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 134px !important;
+}
+
+.frame .accept-button-2 {
+  font-size: 24px !important;
+  left: 10px !important;
+  top: 4px !important;
+  width: 113px !important;
+}
+
+.frame .div-wrapper {
+  background-color: #5d7ca0;
+  border-radius: 10px;
+  height: 48px;
+  left: 39px;
+  position: absolute;
+  top: 152px;
+  width: 293px;
+}
+
+.frame .text-wrapper-2 {
+  color: #000000;
+  font-family: "Merge One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 267px;
+}
+
+.frame .overlap-2 {
+  height: 328px;
+  left: 45px;
+  position: absolute;
+  top: 226px;
+  width: 574px;
+}
+
+.frame .rectangle-2 {
+  background-color: #5d7ca0;
+  border-radius: 10px;
+  height: 327px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-0.15deg);
+  width: 573px;
+}
+
+.frame .text-wrapper-3 {
+  color: #000000;
+  font-family: "Merge One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 188px;
+}
+
+.frame .overlap-3 {
+  height: 29px;
+  left: 683px;
+  position: absolute;
+  top: 239px;
+  width: 161px;
+}
+
+.frame .select-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1px !important;
+}
+
+.frame .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Merge One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 161px;
+}
+
+.frame .overlap-4 {
+  background-color: #d9d9d9;
+  height: 229px;
+  left: 652px;
+  position: absolute;
+  top: 301px;
+  width: 248px;
+}
+
+.frame .text-wrapper-5 {
+  color: #000000;
+  font-family: "Merge One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 195px;
+}

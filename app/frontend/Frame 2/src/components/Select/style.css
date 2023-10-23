@@ -1,0 +1,13 @@
+.select {
+  border-radius: 5px;
+  height: 25px;
+  width: 25px;
+}
+
+.select.default {
+  background-color: #d9d9d9;
+}
+
+.select.variant-2 {
+  background-color: #46c53b;
+}

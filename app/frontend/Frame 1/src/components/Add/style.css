@@ -1,0 +1,38 @@
+.add {
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+  height: 173px;
+  width: 172px;
+}
+
+.add .overlap-group {
+  border: 5px solid;
+  border-color: #020b14;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 178px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 177px;
+}
+
+.add .plus {
+  height: 104px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 103px;
+}
+
+.add .hover {
+  background-color: #384662;
+}
+
+.add .default {
+  background-color: #2b354a;
+}
+
+.add .click {
+  background-color: #546892;
+}
